@@ -8,8 +8,6 @@ få den levererad via drönare (drönare ingår ej i uppgiften).
 ### User stories
 En gruppmedlem gör ett repo och bjuder in resterande gruppmedlemmar till det repot. Sedan under fliken **Projects** så välj ett nytt projekt och sätt upp enligt strukturen nedan samt kopiera över alla user stories. Ni får även använda Trello och skapa upp fler stories eller tasks (som kan vara mer tekniska). I detta grupparbete kan det vara till fördel att skapa upp lite fler tasks att koppla till en user story som mer beskriver det som behövs göras i backend för att uppnå funktionaliteten i user storyn.
 
-**Obs!** En user story kan också enbart vara en FE-story alltså att det inte behövs göras något i backend.
-
 https://github.com/users/zocom-christoffer-wallenberg/projects/14/views/1 (Uppdaterad länk!)
 
 ## Figmaskiss
