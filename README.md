@@ -10,8 +10,24 @@ En gruppmedlem gör ett repo och bjuder in resterande gruppmedlemmar till det re
 
 **Obs!** En user story kan också enbart vara en FE-story alltså att det inte behövs göras något i backend.
 
-https://github.com/users/zocom-christoffer-wallenberg/projects/11/views/1
+https://github.com/users/zocom-christoffer-wallenberg/projects/14/views/1 (Uppdaterad länk!)
 
+## Figmaskiss
+
+**Ingen frontend ska göras i någon av examinationerna!**
+
+Använd dock gärna denna skiss för att förstå vad som förväntas skickas tillbaka av api:et och hur det ska presenteras för användaren.
+
+## Arbetsgång
+
+1. Läs igenom alla user stories och försök bestämma vad för api endpoints ni behöver.
+2. Diskutera hur er datamodell ska se ut (alltså vad behöver ni spara i databasen) och vad för data ska ni skicka tillbaka. Använd följande frågor som hjälp:
+    - Vad är databasen till för? Vad är dess syfte?
+        
+    - Vad vill vi spara för data?
+        
+    - Vad är det för typ av data vi vill spara? Hur ska den se ut? (Arrayer, nummer, strängar, booleans)
+3. Dela upp arbete.
 
 ### Betygskriterier
 
