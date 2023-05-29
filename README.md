@@ -18,6 +18,8 @@ https://github.com/users/zocom-christoffer-wallenberg/projects/14/views/1 (Uppda
 
 Använd dock gärna denna skiss för att förstå vad som förväntas skickas tillbaka av api:et och hur det ska presenteras för användaren.
 
+Skiss: https://www.figma.com/file/UeUGVefSdgio0sRxPFccJI/AirBean-v.1.1?type=design&node-id=0-1&t=y5w4C5vqiulVg5VS-0
+
 ## Arbetsgång
 
 1. Läs igenom alla user stories och försök bestämma vad för api endpoints ni behöver.
